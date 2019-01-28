@@ -1,9 +1,6 @@
 # Customer-Churn-Analysis
 Aim is to predict the Customer Churn
 
-# Status of Analysis
-Still Working
-
 # What is Customer Churn?
 Customer churn refers to when a customer stops or ceases his or her relationship with a company. Businesses are very interested in figuring out the churn because statistics shows that acquiring new customers can cost five times more than retaining existing customers. The cost of customer churn includes lost revenue as well as cost for marketing to acquire those lost customers. Therefore, reducing customer churn is an oen of the important goal for businesses.
 
@@ -21,3 +18,6 @@ These are some of the approaches which can offer a value and can identify a cert
 1. The file that is been used is a Comma Seperated Values File (CSV). 
 2. This file has near about 7000 customer details.
 3. The dataset that is been showcased is data for a telecom company.
+
+# Status of Analysis
+Still Working
