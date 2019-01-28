@@ -13,3 +13,8 @@ Many of the churn prediction modeling methods rely on quantifying based on stati
 3. Confusion Matrix
 
 These are some of the approaches which can offer a value and can identify a certain percentage of at-risk customers.
+
+# About the File
+1. The file that is been used is a Comma Seperated Values File (CSV). 
+2. This file has near about 7000 customer details.
+3. The dataset that is been showcased is data for a telecom company.
